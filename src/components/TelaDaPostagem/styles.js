@@ -19,5 +19,14 @@ export const Image = styled.img`
 export const Description = styled.p`
     max-width: 500px;
     padding-top: 1rem;
+    color:blue;
+    font-size: 1.5rem;
+    font-family: sans-serif;
+`
+
+export const Titulo = styled.h1 `
+font-size: 2rem;
+color: blue;
+font-family: sans-serif;
 `
 
